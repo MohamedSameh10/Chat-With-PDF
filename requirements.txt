@@ -1,0 +1,16 @@
+streamlit
+streamlit-pdf-viewer
+unstructured==0.10.30
+pdfminer.six==20221105
+pdf2image
+opencv-python
+pytesseract
+unstructured_pytesseract
+unstructured_inference
+python-docx
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+python-dotenv
+faiss-cpu
