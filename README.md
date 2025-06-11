@@ -26,6 +26,11 @@ A powerful PDF Q&A app built using **LangChain**, **Groq LLMs**, and **Streamlit
 - **Streamlit**
 - **LangChain**
 - **Groq LLMs**
+
+---
+
+## Try it yourself
+https://chat-with-pdf-ms10.streamlit.app/
 - **FAISS**
 - **Hugging Face Embeddings**
 - **PyPDFLoader**
